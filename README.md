@@ -27,8 +27,14 @@ I mainly build projects because they're fun—not because they're perfect.
 ## Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/kOS-4D5EFF?style=for-the-badge&logoColor=white"/>
+  <img src="./images/kerboscript.png" height="48"/>
   <img src="https://skillicons.dev/icons?i=java,html,cs"/>
+</p>
+
+## Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode"/>
 </p>
 
 ## Tools
