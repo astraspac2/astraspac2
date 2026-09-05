@@ -24,22 +24,17 @@ I mainly build projects because they're fun—not because they're perfect.
 
 ## Tech Stack
 
-### Languages
+## Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,lua&perline=8"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/kOS-4D5EFF?style=for-the-badge&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,html,cs"/>
 </p>
 
-### Frontend
+## Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,linux,vscode,firebase"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode"/>
 </p>
 
 ---
