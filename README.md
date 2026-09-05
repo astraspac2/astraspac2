@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**astraspac2/astraspac2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Astra
 
-Here are some ideas to get you started:
+### Hobby Developer • Kerbal Space Program • Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building tools, scripts, and web projects that make Kerbal Space Program more immersive.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+random+projects;KerboScript+Developer;HTML+%26+CSS+Enthusiast;Always+learning+something+new" />
+
+</div>
+
+---
+
+## About Me
+
+Hi! I'm **Astra**, a hobby developer from Germany.
+
+Most of my projects are centered around **Kerbal Space Program**, especially KerboScript automation, in-game flight software, and small utilities that improve gameplay. Outside of KSP I enjoy creating websites, experimenting with UI design, and learning modern web technologies.
+
+I mainly build projects because they're fun—not because they're perfect.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,lua&perline=8"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,git,linux,vscode,firebase"/>
+</p>
+
+---
+
+## Featured Projects
+
+### 🚀 Apex FlightDeck
+
+A terminal-based flight computer written entirely in **KerboScript**.
+
+It displays live telemetry including altitude, velocity, fuel, orbital data, throttle, mission time, and attitude directly inside KSP without requiring external plugins for the interface.
+
+**Highlights**
+
+- Live flight statistics
+- Interactive menu system
+- HTML flight export
+- Lightweight KerboScript implementation
+
+---
+
+## Currently Learning
+
+- Better JavaScript architecture
+- React & Next.js
+- UI / UX design
+- Open source development
+- Advanced KerboScript
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=astraspac2&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astraspac2&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=astraspac2&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## What You'll Find Here
+
+- Kerbal Space Program tools
+- KerboScript projects
+- HTML & CSS experiments
+- Small JavaScript utilities
+- Random ideas turned into repositories
+
+---
+
+## Connect
+
+<p>
+  <a href="https://www.tiktok.com/@astra.spac2">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/JFYSJ2JujR">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+*"Still early. More projects, more polish, more to come."*
+
+</div>
