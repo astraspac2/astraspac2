@@ -37,11 +37,6 @@ I mainly build projects because they're fun—not because they're perfect.
   <img src="https://skillicons.dev/icons?i=vscode"/>
 </p>
 
-## Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode"/>
-</p>
 
 ---
 
