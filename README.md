@@ -65,9 +65,6 @@ It displays live telemetry including altitude, velocity, fuel, orbital data, thr
 - Open source development
 - Advanced KerboScript
 
----
-
-</div>
 
 ---
 
