@@ -23,20 +23,7 @@ I mainly build projects because they're fun—not because they're perfect.
 ---
 
 ## Tech Stack
-
-## Languages
-
-<p align="left">
-  <img src="./images/kerboscript.png" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java,html,cs"/>
-</p>
-
-## Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode"/>
-</p>
-
+h
 
 ---
 
