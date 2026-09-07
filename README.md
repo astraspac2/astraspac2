@@ -22,7 +22,7 @@ I mainly build projects because they're fun—not because they're perfect.
 
 ---
 
-## Tech Stack
+## random info
 h
 
 ---
