@@ -46,9 +46,8 @@ It displays live telemetry including altitude, velocity, fuel, orbital data, thr
 
 ## Currently Learning
 
-- Better JavaScript architecture
-- React & Next.js
-- UI / UX design
+- HTML
+- C#
 - Open source development
 - Advanced KerboScript
 
