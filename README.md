@@ -6,7 +6,6 @@ I build random projects that are fun, useful, and sometimes way too ambitious. M
 
 ## Featured
 
-- 🚀 **Apex FlightDeck** — Dead its useless lowkey
 - 💻 **Lumen** *(WIP)* — A custom desktop environment built in Python that feels like its own operating system. (very alpha build)
 
 ## Currently learning
