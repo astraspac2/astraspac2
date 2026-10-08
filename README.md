@@ -13,7 +13,7 @@ I build random projects that are fun, useful, and sometimes way too ambitious. M
 
 <p align="left">
   <img src="assets/Python_Logo.png" height="60">
-  <img src="assets/C#_Logo.png" height="60">
+  <img src="assets/CSharp_Logo.png" height="60">
   <img src="assets/HTML_Logo.png" height="60">
   <img src="assets/CSS_Logo.png" height="60">
   <img src="assets/JavaScript_Logo.png" height="60">
