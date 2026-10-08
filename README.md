@@ -1,26 +1,24 @@
 # Astra
 
-**Hobby developer from Germany 🇩🇪**
-
 I build random projects that are fun, useful, and sometimes way too ambitious. Most of my work revolves around **Kerbal Space Program**, UI design, and open-source experiments.
 
-## Featured
+## My favorite games
 
-- 💻 **Lumen** *(WIP)* — A custom desktop environment built in Python that feels like its own operating system. (very alpha build)
+<p align="left">
+  <img src="assets/KSP_Logo.png" height="60">
+  <img src="assets/Minecraft_Logo.png" height="60">
+</p>
 
-## Currently learning
+## Languages I'm (not) learning
 
-- HTML & CSS *(probably not)*
-- Python
-- Open-source development
+<p align="left">
+  <img src="assets/Python_Logo.png" height="60">
+  <img src="assets/C#_Logo.png" height="60">
+  <img src="assets/HTML_Logo.png" height="60">
+  <img src="assets/CSS_Logo.png" height="60">
+  <img src="assets/JavaScript_Logo.png" height="60">
+</p>
 
-## Find here
-
-- Kerbal Space Program tools
-- KerboScript projects
-- Desktop & UI experiments
-- Random ideas turned into repositories
-
----
+I build KSP tools, KerboScript projects, UI experiments, and random open-source projects.
 
 > *Building cool stuff one project at a time.*
