@@ -1,5 +1,3 @@
-# Astra
-
 I build random projects that are fun, useful, and sometimes way too ambitious. Most of my work revolves around **Kerbal Space Program**, UI design, and open-source experiments.
 
 ## My favorite games
